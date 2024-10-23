@@ -23,6 +23,7 @@ function calculate_grade($average) {
             return 'F';
     }
 }
+// this function new update
 
 // Function to calculate the student's result
 function calculate_result($marks) {
